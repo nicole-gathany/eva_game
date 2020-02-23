@@ -20,6 +20,7 @@ I am writing these steps before I start the app so that I can plan what I want t
 ## Animations
 
 After reading about SVG files, I am interested in potentially using them for the game.
+It's possible that I can just use HTML and CSS. We'll see.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
