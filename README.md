@@ -1,3 +1,22 @@
+# Eva's Game
+
+I am making a game for my niece.
+
+## Game Premise
+
+Basically she asked me to create a game where there are a whole bunch of little balls of different colors. The user is given a ball of a certain color and if the user presses the button, the ball shoot towards the collection of balls. If the ball hits ball of the same color, the balls of that color disappear and the user gets points awarded to them based on the number of balls that disappear.
+
+### Steps
+
+I am writing these steps before I start the app so that I can plan what I want to do.
+
+[] Create balls
+[] Most of the balls should be in the left upper corner of the page
+[] Make the balls a random color from a selection of 5 colors
+[] Create animation that propels one ball from the right lower corner of the page to the group of balls
+[] Make the group of balls disappear if the color of the ball that is propelled hits the group of balls of the same color.
+[] Maybe the user ball can be moved based on where the mouse is and then be propelled that way?
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
